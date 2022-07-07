@@ -7,7 +7,7 @@ Anggota: Nicholas G (c14200048), Kenneth P (c14200070), Azarya Dami (c14200090)
 
 Pembagian tugas masing masing anggota:
 
-Nicholas: kamera, pergerakan kamera, penmutaran kamera, collision
+Nicholas: kamera, pergerakan kamera, pemutaran kamera, collision
 
 Azarya: shading orang dan balon udara
 
