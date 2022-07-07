@@ -12,3 +12,6 @@ Nicholas: kamera, pergerakan kamera, pemutaran kamera, collision
 Azarya: shading orang dan balon udara
 
 Kenneth P: shading roket dan pembuatan plot cerita
+
+Link video rekaman demo: https://drive.google.com/file/d/1XZgfs-eJj215JJDPsG06MOCWlJOKDS6b/view?usp=sharing
+
